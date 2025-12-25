@@ -314,9 +314,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Aditya Singh**
-- GitHub: [@adityasingh1409](https://github.com/adityasingh1409)
-- Email: adityasingh28240@gmail.com
+**Raviganga Sai Venkatesh Gurrala**
+- GitHub: (https://github.com/ravigangaG)
+- Email: ravidynamo235@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -331,4 +331,4 @@ For support, email adityasingh28240@gmail.com or open an issue in the repository
 
 ---
 
-Made with ❤️ by Aditya Singh
+Made with ❤️ by Raviganga Sai Venkatesh Gurrala
